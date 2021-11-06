@@ -4,3 +4,4 @@
 <!----><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height"40" />
 <!----><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height"40" />
 ## Tecnologias que faz parte do meu aprendizado contínuo📜
+## link para contato => www.linkedin.com/in/eduardo-zimbre-java-junior
